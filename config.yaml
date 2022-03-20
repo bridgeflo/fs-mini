@@ -25,6 +25,9 @@ menu:
     - name: Tags
       url: "tags/"
       weight: 4
+    - name: Releases
+      url: "releases/"
+      weight: 5
     - name: Subscribe
       url: "index.xml"
 

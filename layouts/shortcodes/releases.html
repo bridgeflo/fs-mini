@@ -1,0 +1,17 @@
+<table>
+  <caption>{{ .Get 0 }}</caption>
+  <thead>
+  <tr>
+    <th>Projekt</th><th>Milestone</th><th>Version</th>
+  </tr> 
+  </thead>
+  <tbody>
+    {{ range .Site.Data.releases }}
+    <tr>
+      <td>{{ .project }}</td>
+      <td>{{ .milestone }}</td>
+      <td>{{ .version }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
