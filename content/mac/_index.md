@@ -18,3 +18,8 @@ draft: false
 - `brew install tmux`
 - `brew install node`
 - `brew install tree`
+
+# Applications
+
+- `brew install --cask google-chrome`
+- `brew install --cask keepassxc`
