@@ -23,3 +23,4 @@ draft: false
 
 - `brew install --cask google-chrome`
 - `brew install --cask keepassxc`
+- `brew install --cask skype`
