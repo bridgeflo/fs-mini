@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://bridgeflo.github.io/fs-mini/"
 languageCode: "en-us"
 title: "A minimal Hugo website"
 theme: "hugo-xmin"
